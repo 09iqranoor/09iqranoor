@@ -14,10 +14,10 @@ A passionate and detail-oriented Frontend Web Developer from Pakistan, with a ke
 ---
 
 ## 🌱 I'm currently learning:
-- Advanced concepts in **React** and **State Management** with **Redux**.
-- Nextjs 
-- **GraphQL** for efficient data fetching and management.
-- **Web Performance Optimization****.
+- Advanced concepts in **React** .
+- **Nextjs** 
+- **MERN**
+  
 
 ---
 
