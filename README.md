@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iqra Siddique
+<p align="center" >   # 👋 Hi, I'm Iqra Siddique  </p>
 
 
 
