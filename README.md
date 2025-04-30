@@ -1,6 +1,6 @@
 <p align="center">👋 Hi, I'm Iqra Siddique</p>
 
-<p align="center"> Software Engineer | Front-End Web Developer | IT Instructor </p>
+<p align="center"> Software Engineer |  Web Developer | IT Instructor </p>
 
 A passionate and detail-oriented Frontend Web Developer from Pakistan 🇵🇰, dedicated to creating clean, user-centric, and high-performing web applications.
 
