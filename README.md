@@ -69,7 +69,7 @@ Currently working as a Visiting Lecturer (IT) 👩‍🏫 and a Freelance Front-
 
 - 📩 **Email**: [09iqrasiddique@gmail.com](mailto:09iqrasiddique@gmail.com)
 
-- 💼  **LinkedIn**: [linkedin.com/in/iqrasiddique](https://www.linkedin.com/in/iqrasiddique/)
+- 💼  **LinkedIn**: [https://www.linkedin.com/in/iqrasiddique/](https://www.linkedin.com/in/iqra-siddique030/))
 - 
 - 📘 **Facebook**: [facebook.com/iqrasiddique](https://fb.com/iqrasiddique)
 - 
