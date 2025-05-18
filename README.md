@@ -2,11 +2,12 @@
 
 <p align="center"> Software Engineer |  Web Developer | IT Instructor </p>
 
-A passionate and detail-oriented Frontend Web Developer from Pakistan 🇵🇰, dedicated to creating clean, user-centric, and high-performing web applications.
+A passionate and detail-oriented  Web Developer from Pakistan 🇵🇰, dedicated to creating clean, user-centric, and high-performing web applications.
 
 With a strong blend of technical expertise, creativity, and problem-solving skills, I aim to deliver seamless digital experiences that drive results. 🚀
 
-Currently working as a Visiting Lecturer (IT) 👩‍🏫 and a Freelance Front-End Developer 💻, constantly learning and upgrading my skills to build better and faster web applications.
+I have also worked  in gov degree collage as a Visiting Lecturer (IT)  👩‍🏫 and a Freelance Web Developer 💻, constantly learning and upgrading my skills to build better and faster web applications.
+Also running my own web development academy MICODINGSCHOOL .
 
 ---
 
@@ -15,6 +16,8 @@ Currently working as a Visiting Lecturer (IT) 👩‍🏫 and a Freelance Front-
 ⚛️ React.js: Developing dynamic, scalable user interfaces.
 
 🌐 Next.js: Exploring server-side rendering and static site generation for performance optimization.
+
+🌐 Node.js: Exploring backend 
 
 🖥️ MERN Stack: Advancing skills in building full-stack applications.
 
@@ -39,9 +42,9 @@ Currently working as a Visiting Lecturer (IT) 👩‍🏫 and a Freelance Front-
 
 🌐 Languages: HTML5, CSS3, JavaScript (ES6+)
 
-🔧 Frameworks & Libraries: React.js, Next.js, Bootstrap, Tailwind CSS, Vue.js
+🔧 Frameworks & Libraries: React.js, Next.js, Bootstrap, Tailwind CSS, Vue.js,node js
 
-📦 State Management: Redux, Context API
+📦 State Management: Redux, Context API,hook
 
 📱 Other Skills: Responsive Design, Mobile-First Design, REST API Integration
 
